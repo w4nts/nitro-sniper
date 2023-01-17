@@ -62,5 +62,6 @@
 - This is technically a self-bot: mentioning this in a Discord chat is enough to make your account reportable to Trust & Safety.
 - Running more than one instance or different snipers is an easy way to get your account deactivated or terminated.
 - Before using, consider the moral implications of stealing gifts from people and communities you have nothing to do with.
+- Thing about, the starving Africans, the war children.
 
 > If you enjoy my projects, please consider leaving a :star: in the top right on the repo :)
